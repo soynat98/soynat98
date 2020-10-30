@@ -8,10 +8,12 @@
 <p><em>Student at <a href="https://www.uady.mx/">Autonomous University of Yucatan</a><img src="https://media1.giphy.com/media/iJDtcUXJiWwNLupfF6/200w.webp?cid=ecf05e470f47fa238d11c21d98f610ef0d3c935e109931a8&rid=200w.webp" width="30"></br> Information Technology Management Intern <img src="https://media3.giphy.com/media/VGnIgzUEs5whg1uMTf/200w.webp?cid=ecf05e470f47fa238d11c21d98f610ef0d3c935e109931a8&rid=200w.webp" width="30"> 
 </em></p>
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/soynat98?style=social">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/soynat98?label=Follow%20%40soynat98&style=social">
 
+<a href="https://www.twitter.com/soynat98/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/soynat98?style=social"></a>
+
+<a href="https://github.com/soynat98/"></a>
+ 
 <a href="https://www.instagram.com/soynat98/"><img alt="Instagram" src="https://img.shields.io/badge/-@soynat98-pink?style=flat-square&logo=instagram"></a>
 
 
